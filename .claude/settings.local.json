@@ -1,7 +1,8 @@
 {
   "permissions": {
     "allow": [
-      "Bash(awk -F';' '{print $12}')"
+      "Bash(awk -F';' '{print $12}')",
+      "Bash(.venv/bin/python3 *)"
     ]
   }
 }

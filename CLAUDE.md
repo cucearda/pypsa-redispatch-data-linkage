@@ -12,6 +12,9 @@ python aggregate_plants.py
 
 # Step 2 — run the three-stage matching pipeline
 python plant_match_pre_filtering.py
+
+# Step 3 — match aggregated cluster entries
+python cluster_match.py
 ```
 
 ## Key files
@@ -25,6 +28,7 @@ python plant_match_pre_filtering.py
 | `plant_lookup_first100_v2.csv` | Current matching output |
 | `aggregate_plants.py` | Preprocessing: merges same-name co-located turbines into single farm entries |
 | `plant_match_pre_filtering.py` | Main pipeline: rule filter → fuzzy → Claude LLM |
+| `cluster_match.py` | Second-pass: matches Cluster aggregated entries to lists of plant_ids |
 
 ## Pipeline architecture (`plant_match_pre_filtering.py`)
 
