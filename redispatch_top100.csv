@@ -1,101 +1,101 @@
-BEGINN_DATUM,BEGINN_UHRZEIT,ZEITZONE_VON,ENDE_DATUM,ENDE_UHRZEIT,ZEITZONE_BIS,GRUND_DER_MASSNAHME,RICHTUNG,MITTLERE_LEISTUNG_MW,MAXIMALE_LEISTUNG_MW,GESAMTE_ARBEIT_MWH,ANWEISENDER_UENB,ANFORDERNDER_UENB,BETROFFENE_ANLAGE,PRIMAERENERGIEART
-04.03.2025,00:00,CET,05.03.2025,00:00,CET,Strombedingter Countertrade DE-DK1,Wirkleistungseinspeisung erhöhen,686,1100,13720,TenneT DE,TenneT DE,Börse,Sonstiges
-04.03.2025,02:00,CET,04.03.2025,18:00,CET,Strombedingter Countertrade DE-DK2,Wirkleistungseinspeisung erhöhen,17,43,134,50Hertz,50Hertz,Börse,Sonstiges
-04.03.2025,03:15,CET,04.03.2025,22:00,CET,Strombedingter Redispatch,Wirkleistungseinspeisung reduzieren,"255,93",425,3583,TenneT DE,50Hertz & Amprion & TenneT DE & TransnetBW,Wilhelmshaven (ENGIE),Konventionell
-04.03.2025,03:15,CET,04.03.2025,17:00,CET,Strom- und Spannungsbedingter RD,Wirkleistungseinspeisung erhöhen,"84,1",332,"441,5",TransnetBW,50Hertz & Amprion & TenneT DE & TransnetBW,Börse,Sonstiges
-04.03.2025,03:30,CET,04.03.2025,17:15,CET,Strombedingter Redispatch,Wirkleistungseinspeisung erhöhen,"245,45",260,3375,TransnetBW,50Hertz & Amprion & TenneT DE & TransnetBW,Reservekraftwerk Altbach/Deizisau Block 1,Konventionell
-04.03.2025,04:00,CET,05.03.2025,00:00,CET,Strombedingter Redispatch,Wirkleistungseinspeisung erhöhen,218,225,4361,Amprion,50Hertz & Amprion & TenneT DE & TransnetBW,KMW_KW3,Konventionell
-04.03.2025,04:15,CET,04.03.2025,11:15,CET,Strom- und Spannungsbedingter RD,Wirkleistungseinspeisung reduzieren,132,400,363,TransnetBW,50Hertz & Amprion & TenneT DE & TransnetBW,Börse,Sonstiges
-04.03.2025,04:30,CET,04.03.2025,11:15,CET,Strombedingter Redispatch,Wirkleistungseinspeisung erhöhen,"170,15",280,"1148,5",TenneT DE,50Hertz & Amprion & TenneT DE & TransnetBW,Gebersdorf 2,Konventionell
-04.03.2025,04:45,CET,05.03.2025,00:00,CET,Strombedingter Redispatch,Wirkleistungseinspeisung reduzieren,"277,38",685,3814,TenneT DE,50Hertz & Amprion & TenneT DE & TransnetBW,Wilhelmshaven (ENGIE),Konventionell
-04.03.2025,05:00,CET,04.03.2025,21:00,CET,Strombedingter Redispatch,Wirkleistungseinspeisung reduzieren,8,11,83,50Hertz,50Hertz & Amprion & TenneT DE & TransnetBW,50H Halle-Dieselstr HKW-BlockA,Konventionell
-04.03.2025,05:00,CET,05.03.2025,00:00,CET,Strombedingter Redispatch,Wirkleistungseinspeisung reduzieren,105,163,1573,50Hertz,50Hertz & Amprion & TenneT DE & TransnetBW,50H Hamburg Wedel1,Konventionell
-04.03.2025,05:00,CET,04.03.2025,23:00,CET,Strombedingter Redispatch,Wirkleistungseinspeisung reduzieren,133,230,1600,50Hertz,50Hertz & Amprion & TenneT DE & TransnetBW,50H Berlin Mitte,Konventionell
-04.03.2025,05:00,CET,05.03.2025,00:00,CET,Strombedingter Redispatch,Wirkleistungseinspeisung reduzieren,83,120,1073,50Hertz,50Hertz & Amprion & TenneT DE & TransnetBW,50H Berlin Marzahn,Konventionell
-04.03.2025,05:00,CET,04.03.2025,23:00,CET,Strombedingter Redispatch,Wirkleistungseinspeisung reduzieren,35,40,419,50Hertz,50Hertz & Amprion & TenneT DE & TransnetBW,50H Rostock Marienehe,Konventionell
-04.03.2025,05:00,CET,04.03.2025,14:00,CET,Strombedingter Redispatch,Wirkleistungseinspeisung erhöhen,269,500,2420,Amprion,50Hertz & Amprion & TenneT DE & TransnetBW,Netzreservekraftwerk Bexbach A,Konventionell
-04.03.2025,05:15,CET,04.03.2025,09:15,CET,Strombedingter Redispatch,Wirkleistungseinspeisung reduzieren,100,100,400,TenneT DE,TenneT DE,SHN Cluster Süderdonn T411,Erneuerbar
-04.03.2025,05:15,CET,04.03.2025,09:15,CET,Strombedingter Redispatch,Wirkleistungseinspeisung reduzieren,"90,63",100,"362,5",TenneT DE,TenneT DE,SHN Cluster Süderdonn T412 T413,Erneuerbar
-04.03.2025,05:15,CET,04.03.2025,09:15,CET,Strombedingter Redispatch,Wirkleistungseinspeisung reduzieren,"181,25",200,725,TenneT DE,TenneT DE,SHN Cluster Klixbüll,Erneuerbar
-04.03.2025,05:15,CET,04.03.2025,09:15,CET,Strombedingter Redispatch,Wirkleistungseinspeisung reduzieren,"181,25",200,725,TenneT DE,TenneT DE,SHN Cluster Heide West T411 T412,Erneuerbar
-04.03.2025,05:15,CET,04.03.2025,09:15,CET,Strombedingter Redispatch,Wirkleistungseinspeisung reduzieren,"181,25",200,725,TenneT DE,TenneT DE,SHN Cluster Husum Nord,Erneuerbar
-04.03.2025,05:15,CET,04.03.2025,09:15,CET,Strombedingter Redispatch,Wirkleistungseinspeisung reduzieren,"90,24",100,"360,98",TenneT DE,TenneT DE,SHN Cluster Heide West T413,Erneuerbar
-04.03.2025,05:30,CET,04.03.2025,14:00,CET,Strombedingter Redispatch,Wirkleistungseinspeisung erhöhen,261,400,2215,Amprion,50Hertz & Amprion & TenneT DE & TransnetBW,Netzreservekraftwerk Weiher C,Konventionell
-04.03.2025,05:30,CET,04.03.2025,21:30,CET,Strombedingter Redispatch,Wirkleistungseinspeisung reduzieren,"452,88",929,"5547,75",TenneT DE,TenneT DE,OWP UW Büttel,Erneuerbar
-04.03.2025,05:30,CET,04.03.2025,20:00,CET,Strombedingter Redispatch,Wirkleistungseinspeisung erhöhen,"244,41",410,"1955,25",TransnetBW,TenneT DE,Vorarlberger Ilwerke,Sonstiges
-04.03.2025,05:30,CET,04.03.2025,09:00,CET,Strombedingter Redispatch,Wirkleistungseinspeisung erhöhen,"112,86",140,395,TransnetBW,TenneT DE,Reservekraftwerk Altbach/Deizisau Block 1,Konventionell
-04.03.2025,06:00,CET,04.03.2025,20:00,CET,Strombedingter Redispatch,Wirkleistungseinspeisung reduzieren,17,22,69,50Hertz,50Hertz & Amprion & TenneT DE & TransnetBW,50H Halle-Trotha HKW,Konventionell
-04.03.2025,06:00,CET,05.03.2025,00:00,CET,Strombedingter Redispatch,Wirkleistungseinspeisung reduzieren,61,109,490,50Hertz,50Hertz & Amprion & TenneT DE & TransnetBW,50H Hamburg Tiefstack GuD,Konventionell
-04.03.2025,06:00,CET,04.03.2025,14:00,CET,Strombedingter Redispatch,Wirkleistungseinspeisung reduzieren,171,171,1368,TenneT DE,TenneT DE,Wilhelmshaven (ENGIE),Konventionell
-04.03.2025,06:45,CET,04.03.2025,11:30,CET,Strombedingter Redispatch,Wirkleistungseinspeisung erhöhen,160,192,762,Amprion,50Hertz & Amprion & TenneT DE & TransnetBW,KMW_KW3,Konventionell
-04.03.2025,07:00,CET,04.03.2025,11:00,CET,Strombedingter Redispatch,Wirkleistungseinspeisung reduzieren,172,328,690,50Hertz,50Hertz & Amprion & TenneT DE & TransnetBW,Lippendorf VE,Konventionell
-04.03.2025,07:00,CET,04.03.2025,11:00,CET,Strombedingter Redispatch,Wirkleistungseinspeisung reduzieren,205,225,821,50Hertz,50Hertz & Amprion & TenneT DE & TransnetBW,Boxberg (Standort),Konventionell
-04.03.2025,07:00,CET,04.03.2025,09:00,CET,Strombedingter Redispatch,Wirkleistungseinspeisung reduzieren,21,28,42,50Hertz,50Hertz & Amprion & TenneT DE & TransnetBW,Lippendorf VE,Konventionell
-04.03.2025,07:00,CET,04.03.2025,11:00,CET,Strombedingter Redispatch,Wirkleistungseinspeisung reduzieren,82,109,329,50Hertz,50Hertz & Amprion & TenneT DE & TransnetBW,50H OWP Wikinger,Erneuerbar
-04.03.2025,07:00,CET,04.03.2025,08:00,CET,Strombedingter Redispatch,Wirkleistungseinspeisung reduzieren,51,51,51,50Hertz,50Hertz & Amprion & TenneT DE & TransnetBW,50H UW Bertikow,Erneuerbar
-04.03.2025,07:00,CET,04.03.2025,08:00,CET,Strombedingter Redispatch,Wirkleistungseinspeisung erhöhen,335,350,335,TenneT DE,TenneT DE,Börse,Sonstiges
-04.03.2025,07:00,CET,05.03.2025,00:00,CET,Strombedingter Redispatch,Wirkleistungseinspeisung erhöhen,"154,9",600,"774,5",TransnetBW,50Hertz & Amprion & TenneT DE & TransnetBW,Vorarlberger Ilwerke,Sonstiges
-04.03.2025,07:15,CET,04.03.2025,10:00,CET,Strombedingter Redispatch,Wirkleistungseinspeisung erhöhen,"54,57",90,"95,5",TenneT DE,TenneT DE,SW München KW-Pool,Sonstiges
-04.03.2025,07:45,CET,05.03.2025,00:00,CET,Strombedingter Redispatch,Wirkleistungseinspeisung erhöhen,"64,31",88,209,TenneT DE,50Hertz & Amprion & TenneT DE & TransnetBW,SW München KW-Pool,Sonstiges
-04.03.2025,08:00,CET,05.03.2025,00:00,CET,Strombedingter Redispatch,Wirkleistungseinspeisung reduzieren,34,50,170,50Hertz,50Hertz & Amprion & TenneT DE & TransnetBW,50H Berlin Mitte,Konventionell
-04.03.2025,08:00,CET,04.03.2025,12:30,CET,Strombedingter Redispatch,Wirkleistungseinspeisung reduzieren,96,220,430,50Hertz,50Hertz & Amprion & TenneT DE & TransnetBW,50H PV Witznitz,Erneuerbar
-04.03.2025,08:00,CET,04.03.2025,10:00,CET,Strombedingter Redispatch,Wirkleistungseinspeisung reduzieren,131,206,262,50Hertz,50Hertz & Amprion & TenneT DE & TransnetBW,Lippendorf EnBW,Konventionell
-04.03.2025,08:00,CET,04.03.2025,09:00,CET,Strombedingter Redispatch,Wirkleistungseinspeisung reduzieren,94,94,94,50Hertz,50Hertz & Amprion & TenneT DE & TransnetBW,Lippendorf EnBW,Konventionell
-04.03.2025,08:00,CET,04.03.2025,10:00,CET,Strombedingter Redispatch,Wirkleistungseinspeisung reduzieren,105,160,210,50Hertz,50Hertz & Amprion & TenneT DE & TransnetBW,Lippendorf VE,Konventionell
-04.03.2025,08:00,CET,04.03.2025,09:00,CET,Strombedingter Redispatch,Wirkleistungseinspeisung reduzieren,49,49,49,50Hertz,50Hertz & Amprion & TenneT DE & TransnetBW,Boxberg (Standort),Konventionell
-04.03.2025,08:00,CET,04.03.2025,11:00,CET,Strombedingter Redispatch,Wirkleistungseinspeisung reduzieren,132,172,396,50Hertz,50Hertz & Amprion & TenneT DE & TransnetBW,Jänschwalde (Standort),Konventionell
-04.03.2025,08:00,CET,04.03.2025,16:00,CET,Strombedingter Redispatch,Wirkleistungseinspeisung reduzieren,338,509,1352,50Hertz,50Hertz & Amprion & TenneT DE & TransnetBW,Schwarze Pumpe (Standort),Konventionell
-04.03.2025,08:00,CET,04.03.2025,10:00,CET,Strombedingter Redispatch,Wirkleistungseinspeisung reduzieren,50,50,100,50Hertz,50Hertz & Amprion & TenneT DE & TransnetBW,Schkopau,Konventionell
-04.03.2025,08:00,CET,04.03.2025,11:00,CET,Strombedingter Redispatch,Wirkleistungseinspeisung reduzieren,71,138,212,50Hertz,50Hertz & Amprion & TenneT DE & TransnetBW,Jänschwalde (Standort),Konventionell
-04.03.2025,08:00,CET,04.03.2025,11:00,CET,Strombedingter Redispatch,Wirkleistungseinspeisung reduzieren,188,326,563,50Hertz,50Hertz & Amprion & TenneT DE & TransnetBW,Schwarze Pumpe (Standort),Konventionell
-04.03.2025,08:00,CET,04.03.2025,11:00,CET,Strombedingter Redispatch,Wirkleistungseinspeisung reduzieren,187,286,560,50Hertz,50Hertz & Amprion & TenneT DE & TransnetBW,Boxberg (Standort),Konventionell
-04.03.2025,08:00,CET,04.03.2025,12:30,CET,Strombedingter Redispatch,Wirkleistungseinspeisung erhöhen,492,810,2215,Amprion,50Hertz & Amprion & TenneT DE & TransnetBW,Knapsack 1,Konventionell
-04.03.2025,08:00,CET,04.03.2025,22:15,CET,Strombedingter Redispatch,Wirkleistungseinspeisung erhöhen,231,570,"1443,75",TenneT DE,50Hertz & Amprion & TenneT DE & TransnetBW,Irsching 5,Konventionell
-04.03.2025,08:00,CET,04.03.2025,11:30,CET,Strombedingter Redispatch,Wirkleistungseinspeisung erhöhen,"108,57",140,380,TransnetBW,50Hertz & Amprion & TenneT DE & TransnetBW,Reservekraftwerk Altbach/Deizisau Block 1,Konventionell
-04.03.2025,08:30,CET,04.03.2025,10:15,CET,Strombedingter Redispatch,Wirkleistungseinspeisung erhöhen,140,250,245,Amprion,TenneT DE,Netzreservekraftwerk Bexbach A,Konventionell
-04.03.2025,08:45,CET,04.03.2025,14:00,CET,Strombedingter Redispatch,Wirkleistungseinspeisung erhöhen,191,210,1002,Amprion,50Hertz & Amprion & TenneT DE & TransnetBW,Emsland Block B,Konventionell
-04.03.2025,08:45,CET,05.03.2025,00:00,CET,Strombedingter Redispatch,Wirkleistungseinspeisung reduzieren,"148,37",383,"704,75",TenneT DE,50Hertz & Amprion & TenneT DE & TransnetBW,OWP UW Büttel,Erneuerbar
-04.03.2025,09:00,CET,04.03.2025,11:00,CET,Strombedingter Redispatch,Wirkleistungseinspeisung reduzieren,174,220,348,50Hertz,50Hertz & Amprion & TenneT DE & TransnetBW,50H OWP Arkona,Erneuerbar
-04.03.2025,09:00,CET,05.03.2025,00:00,CET,Strombedingter Redispatch,Wirkleistungseinspeisung erhöhen,329,402,1481,Amprion,50Hertz & Amprion & TenneT DE & TransnetBW,Emsland Block D,Konventionell
-04.03.2025,09:00,CET,04.03.2025,11:00,CET,Strombedingter Redispatch,Wirkleistungseinspeisung erhöhen,138,213,276,Amprion,50Hertz & Amprion & TenneT DE & TransnetBW,LAUSWARD_GUDF,Konventionell
-04.03.2025,09:00,CET,04.03.2025,21:00,CET,Probestart (NetzRes),Wirkleistungseinspeisung erhöhen,"88,54",120,"1062,5",TransnetBW,TransnetBW,Reservekraftwerk Walheim Block 2,Konventionell
-04.03.2025,09:00,CET,04.03.2025,11:00,CET,Strombedingter Redispatch,Wirkleistungseinspeisung erhöhen,"115,75",200,"231,5",TransnetBW,TenneT DE,Heizkraftwerk Heilbronn Block 7,Konventionell
-04.03.2025,09:00,CET,04.03.2025,21:00,CET,Probestart (NetzRes),Wirkleistungseinspeisung reduzieren,"88,54",120,"1062,5",TransnetBW,TransnetBW,Börse,Sonstiges
-04.03.2025,09:30,CET,04.03.2025,11:00,CET,Strombedingter Redispatch,Wirkleistungseinspeisung erhöhen,195,227,292,Amprion,50Hertz & Amprion & TenneT DE & TransnetBW,WALSUM_10,Konventionell
-04.03.2025,09:45,CET,04.03.2025,12:00,CET,Strombedingter Redispatch,Wirkleistungseinspeisung erhöhen,113,196,254,Amprion,50Hertz & Amprion & TenneT DE & TransnetBW,WALSUM_10,Konventionell
-04.03.2025,09:45,CET,04.03.2025,17:00,CET,Strombedingter Redispatch,Wirkleistungseinspeisung erhöhen,196,210,1422,Amprion,50Hertz & Amprion & TenneT DE & TransnetBW,Emsland Block C,Konventionell
-04.03.2025,10:00,CET,04.03.2025,17:00,CET,Strombedingter Redispatch,Wirkleistungseinspeisung erhöhen,62,85,124,Amprion,50Hertz & Amprion & TenneT DE & TransnetBW,NIEHL-31-GUD,Konventionell
-04.03.2025,10:00,CET,04.03.2025,11:00,CET,Strombedingter Redispatch,Wirkleistungseinspeisung erhöhen,120,124,120,Amprion,50Hertz & Amprion & TenneT DE & TransnetBW,WEISWEILER_G,Konventionell
-04.03.2025,10:00,CET,04.03.2025,11:45,CET,Strombedingter Redispatch,Wirkleistungseinspeisung erhöhen,193,292,338,Amprion,50Hertz & Amprion & TenneT DE & TransnetBW,LAUSWARD_GUDF,Konventionell
-04.03.2025,10:00,CET,04.03.2025,11:00,CET,Strombedingter Redispatch,Wirkleistungseinspeisung erhöhen,"117,5",140,"117,5",TenneT DE,50Hertz & Amprion & TenneT DE & TransnetBW,SW München KW-Pool,Sonstiges
-04.03.2025,10:00,CET,04.03.2025,15:00,CET,Strombedingter Redispatch,Wirkleistungseinspeisung reduzieren,100,100,500,TenneT DE,TenneT DE,EE Bayern,Erneuerbar
-04.03.2025,10:00,CET,04.03.2025,15:00,CET,Strombedingter Redispatch,Wirkleistungseinspeisung reduzieren,90,100,450,TenneT DE,TenneT DE,EE Bayern,Erneuerbar
-04.03.2025,10:00,CET,04.03.2025,15:00,CET,Strombedingter Redispatch,Wirkleistungseinspeisung reduzieren,200,200,1000,TenneT DE,TenneT DE,EE Bayern,Erneuerbar
-04.03.2025,10:00,CET,04.03.2025,12:00,CET,Strombedingter Redispatch,Wirkleistungseinspeisung erhöhen,47,49,94,TransnetBW,50Hertz & Amprion & TenneT DE & TransnetBW,Rheinhafen-Dampfkraftwerk Karlsruhe Block 8,Konventionell
-04.03.2025,10:15,CET,04.03.2025,14:00,CET,Strombedingter Redispatch,Wirkleistungseinspeisung erhöhen,151,171,"566,25",TransnetBW,TenneT DE,Rheinhafen-Dampfkraftwerk Karlsruhe Block 8,Konventionell
-04.03.2025,10:30,CET,04.03.2025,23:00,CET,Strombedingter Redispatch,Wirkleistungseinspeisung reduzieren,"111,94",500,"503,75",TenneT DE,50Hertz & Amprion & TenneT DE & TransnetBW,OWP UW Dörpen-West,Erneuerbar
-04.03.2025,10:30,CET,04.03.2025,11:00,CET,Strombedingter Redispatch,Wirkleistungseinspeisung erhöhen,100,150,50,TransnetBW,50Hertz & Amprion & TenneT DE & TransnetBW,Vorarlberger Ilwerke,Sonstiges
-04.03.2025,11:00,CET,04.03.2025,11:30,CET,Strombedingter Redispatch,Wirkleistungseinspeisung reduzieren,60,60,30,50Hertz,50Hertz & Amprion & TenneT DE & TransnetBW,50H UW Bertikow,Erneuerbar
-04.03.2025,11:00,CET,04.03.2025,12:15,CET,Strombedingter Redispatch,Wirkleistungseinspeisung reduzieren,199,200,149,50Hertz,50Hertz & Amprion & TenneT DE & TransnetBW,50H OWP Arcadis Ost 1,Erneuerbar
-04.03.2025,12:00,CET,04.03.2025,14:00,CET,Strombedingter Redispatch,Wirkleistungseinspeisung reduzieren,140,160,280,50Hertz,TenneT DE,50H PV Witznitz,Erneuerbar
-04.03.2025,12:00,CET,04.03.2025,21:30,CET,Probestart (NetzRes),Wirkleistungseinspeisung erhöhen,"336,58",520,"3197,5",TenneT DE,TenneT DE,ReserveKW Staudinger 5,Konventionell
-04.03.2025,12:45,CET,04.03.2025,14:00,CET,Strombedingter Redispatch,Wirkleistungseinspeisung reduzieren,48,50,60,50Hertz,TenneT DE,50H OWP Arkona,Erneuerbar
-04.03.2025,13:00,CET,04.03.2025,14:00,CET,Strombedingter Redispatch,Wirkleistungseinspeisung reduzieren,6,6,6,50Hertz,50Hertz & Amprion & TenneT DE & TransnetBW,50H UW Iven,Erneuerbar
-04.03.2025,13:00,CET,05.03.2025,00:00,CET,Strombedingter Redispatch,Wirkleistungseinspeisung reduzieren,"50,75",113,406,TenneT DE,50Hertz & Amprion & TenneT DE & TransnetBW,OWP UW Dörpen-West,Erneuerbar
-04.03.2025,13:30,CET,04.03.2025,19:30,CET,Strombedingter Redispatch,Wirkleistungseinspeisung erhöhen,200,250,1200,Amprion,50Hertz & Amprion & TenneT DE & TransnetBW,HAMMUENTROP_10,Konventionell
-04.03.2025,14:00,CET,05.03.2025,00:00,CET,Strombedingter Redispatch,Wirkleistungseinspeisung erhöhen,210,210,2100,Amprion,50Hertz & Amprion & TenneT DE & TransnetBW,Emsland Block B,Konventionell
-04.03.2025,14:00,CET,05.03.2025,00:00,CET,Strombedingter Redispatch,Wirkleistungseinspeisung erhöhen,179,210,1790,Amprion,50Hertz & Amprion & TenneT DE & TransnetBW,HERDECKE_H6,Konventionell
-04.03.2025,14:00,CET,05.03.2025,00:00,CET,Strombedingter Redispatch,Wirkleistungseinspeisung reduzieren,"194,8",448,1948,TenneT DE,50Hertz & Amprion & TenneT DE & TransnetBW,OWP UW Dörpen-West,Erneuerbar
-04.03.2025,14:00,CET,04.03.2025,20:00,CET,Strombedingter Redispatch,Wirkleistungseinspeisung reduzieren,"283,46",479,"1700,75",TenneT DE,50Hertz & Amprion & TenneT DE & TransnetBW,Wilhelmshaven (ENGIE),Konventionell
-04.03.2025,17:00,CET,04.03.2025,18:00,CET,Strombedingter Redispatch,Wirkleistungseinspeisung reduzieren,50,50,50,50Hertz,50Hertz & Amprion & TenneT DE & TransnetBW,Rostock Kohlekraftwerk,Konventionell
-04.03.2025,17:00,CET,05.03.2025,00:00,CET,Strombedingter Redispatch,Wirkleistungseinspeisung erhöhen,210,210,1470,Amprion,50Hertz & Amprion & TenneT DE & TransnetBW,Emsland Block C,Konventionell
-04.03.2025,17:15,CET,05.03.2025,00:00,CET,Strombedingter Redispatch,Wirkleistungseinspeisung reduzieren,151,237,1018,50Hertz,50Hertz & Amprion & TenneT DE & TransnetBW,Rostock Kohlekraftwerk,Konventionell
-04.03.2025,17:30,CET,05.03.2025,00:00,CET,Strombedingter Redispatch,Wirkleistungseinspeisung erhöhen,324,420,2104,Amprion,50Hertz & Amprion & TenneT DE & TransnetBW,HAMMUENTROP_20,Konventionell
-04.03.2025,19:00,CET,05.03.2025,00:00,CET,Strombedingter Redispatch,Wirkleistungseinspeisung erhöhen,244,250,1221,Amprion,50Hertz & Amprion & TenneT DE & TransnetBW,HAMMUENTROP_10,Konventionell
-04.03.2025,20:00,CET,04.03.2025,22:00,CET,Strombedingter Redispatch,Wirkleistungseinspeisung erhöhen,95,98,190,Amprion,50Hertz & Amprion & TenneT DE & TransnetBW,Emsland Block C,Konventionell
-04.03.2025,21:45,CET,05.03.2025,00:00,CET,Strombedingter Redispatch,Wirkleistungseinspeisung erhöhen,"222,67",530,501,TenneT DE,50Hertz & Amprion & TenneT DE & TransnetBW,Irsching 5,Konventionell
-04.03.2025,21:45,CET,05.03.2025,00:00,CET,Strombedingter Redispatch,Wirkleistungseinspeisung reduzieren,"87,78",181,"197,5",TenneT DE,50Hertz & Amprion & TenneT DE & TransnetBW,OWP UW Büttel,Erneuerbar
-04.03.2025,22:00,CET,05.03.2025,00:00,CET,Strombedingter Redispatch,Wirkleistungseinspeisung reduzieren,235,286,470,TenneT DE,50Hertz & Amprion & TenneT DE & TransnetBW,OWP UW Büttel,Erneuerbar
-04.03.2025,22:00,CET,04.03.2025,23:00,CET,Strombedingter Redispatch,Wirkleistungseinspeisung reduzieren,19,19,19,TenneT DE,50Hertz & Amprion & TenneT DE & TransnetBW,SW München KW-Pool,Sonstiges
-04.03.2025,23:00,CET,05.03.2025,00:00,CET,Strombedingter Redispatch,Wirkleistungseinspeisung reduzieren,150,200,150,TenneT DE,TenneT DE,SHN Cluster Heide West T411 T412,Erneuerbar
-04.03.2025,23:00,CET,05.03.2025,00:00,CET,Strombedingter Redispatch,Wirkleistungseinspeisung reduzieren,150,200,150,TenneT DE,TenneT DE,SHN Cluster Klixbüll,Erneuerbar
+BEGINN_DATUM;BEGINN_UHRZEIT;ZEITZONE_VON;ENDE_DATUM;ENDE_UHRZEIT;ZEITZONE_BIS;GRUND_DER_MASSNAHME;RICHTUNG;MITTLERE_LEISTUNG_MW;MAXIMALE_LEISTUNG_MW;GESAMTE_ARBEIT_MWH;ANWEISENDER_UENB;ANFORDERNDER_UENB;BETROFFENE_ANLAGE;PRIMAERENERGIEART
+04.03.2025;00:00;CET;05.03.2025;00:00;CET;Strombedingter Countertrade DE-DK1;Wirkleistungseinspeisung erhöhen;686;1100;13720;TenneT DE;TenneT DE;Börse;Sonstiges
+04.03.2025;02:00;CET;04.03.2025;18:00;CET;Strombedingter Countertrade DE-DK2;Wirkleistungseinspeisung erhöhen;17;43;134;50Hertz;50Hertz;Börse;Sonstiges
+04.03.2025;03:15;CET;04.03.2025;22:00;CET;Strombedingter Redispatch;Wirkleistungseinspeisung reduzieren;255,93;425;3583;TenneT DE;50Hertz & Amprion & TenneT DE & TransnetBW;Wilhelmshaven (ENGIE);Konventionell
+04.03.2025;03:15;CET;04.03.2025;17:00;CET;Strom- und Spannungsbedingter RD;Wirkleistungseinspeisung erhöhen;84,1;332;441,5;TransnetBW;50Hertz & Amprion & TenneT DE & TransnetBW;Börse;Sonstiges
+04.03.2025;03:30;CET;04.03.2025;17:15;CET;Strombedingter Redispatch;Wirkleistungseinspeisung erhöhen;245,45;260;3375;TransnetBW;50Hertz & Amprion & TenneT DE & TransnetBW;Reservekraftwerk Altbach/Deizisau Block 1;Konventionell
+04.03.2025;04:00;CET;05.03.2025;00:00;CET;Strombedingter Redispatch;Wirkleistungseinspeisung erhöhen;218;225;4361;Amprion;50Hertz & Amprion & TenneT DE & TransnetBW;KMW_KW3;Konventionell
+04.03.2025;04:15;CET;04.03.2025;11:15;CET;Strom- und Spannungsbedingter RD;Wirkleistungseinspeisung reduzieren;132;400;363;TransnetBW;50Hertz & Amprion & TenneT DE & TransnetBW;Börse;Sonstiges
+04.03.2025;04:30;CET;04.03.2025;11:15;CET;Strombedingter Redispatch;Wirkleistungseinspeisung erhöhen;170,15;280;1148,5;TenneT DE;50Hertz & Amprion & TenneT DE & TransnetBW;Gebersdorf 2;Konventionell
+04.03.2025;04:45;CET;05.03.2025;00:00;CET;Strombedingter Redispatch;Wirkleistungseinspeisung reduzieren;277,38;685;3814;TenneT DE;50Hertz & Amprion & TenneT DE & TransnetBW;Wilhelmshaven (ENGIE);Konventionell
+04.03.2025;05:00;CET;04.03.2025;21:00;CET;Strombedingter Redispatch;Wirkleistungseinspeisung reduzieren;8;11;83;50Hertz;50Hertz & Amprion & TenneT DE & TransnetBW;50H Halle-Dieselstr HKW-BlockA;Konventionell
+04.03.2025;05:00;CET;05.03.2025;00:00;CET;Strombedingter Redispatch;Wirkleistungseinspeisung reduzieren;105;163;1573;50Hertz;50Hertz & Amprion & TenneT DE & TransnetBW;50H Hamburg Wedel1;Konventionell
+04.03.2025;05:00;CET;04.03.2025;23:00;CET;Strombedingter Redispatch;Wirkleistungseinspeisung reduzieren;133;230;1600;50Hertz;50Hertz & Amprion & TenneT DE & TransnetBW;50H Berlin Mitte;Konventionell
+04.03.2025;05:00;CET;05.03.2025;00:00;CET;Strombedingter Redispatch;Wirkleistungseinspeisung reduzieren;83;120;1073;50Hertz;50Hertz & Amprion & TenneT DE & TransnetBW;50H Berlin Marzahn;Konventionell
+04.03.2025;05:00;CET;04.03.2025;23:00;CET;Strombedingter Redispatch;Wirkleistungseinspeisung reduzieren;35;40;419;50Hertz;50Hertz & Amprion & TenneT DE & TransnetBW;50H Rostock Marienehe;Konventionell
+04.03.2025;05:00;CET;04.03.2025;14:00;CET;Strombedingter Redispatch;Wirkleistungseinspeisung erhöhen;269;500;2420;Amprion;50Hertz & Amprion & TenneT DE & TransnetBW;Netzreservekraftwerk Bexbach A;Konventionell
+04.03.2025;05:15;CET;04.03.2025;09:15;CET;Strombedingter Redispatch;Wirkleistungseinspeisung reduzieren;100;100;400;TenneT DE;TenneT DE;SHN Cluster Süderdonn T411;Erneuerbar
+04.03.2025;05:15;CET;04.03.2025;09:15;CET;Strombedingter Redispatch;Wirkleistungseinspeisung reduzieren;90,63;100;362,5;TenneT DE;TenneT DE;SHN Cluster Süderdonn T412 T413;Erneuerbar
+04.03.2025;05:15;CET;04.03.2025;09:15;CET;Strombedingter Redispatch;Wirkleistungseinspeisung reduzieren;181,25;200;725;TenneT DE;TenneT DE;SHN Cluster Klixbüll;Erneuerbar
+04.03.2025;05:15;CET;04.03.2025;09:15;CET;Strombedingter Redispatch;Wirkleistungseinspeisung reduzieren;181,25;200;725;TenneT DE;TenneT DE;SHN Cluster Heide West T411 T412;Erneuerbar
+04.03.2025;05:15;CET;04.03.2025;09:15;CET;Strombedingter Redispatch;Wirkleistungseinspeisung reduzieren;181,25;200;725;TenneT DE;TenneT DE;SHN Cluster Husum Nord;Erneuerbar
+04.03.2025;05:15;CET;04.03.2025;09:15;CET;Strombedingter Redispatch;Wirkleistungseinspeisung reduzieren;90,24;100;360,98;TenneT DE;TenneT DE;SHN Cluster Heide West T413;Erneuerbar
+04.03.2025;05:30;CET;04.03.2025;14:00;CET;Strombedingter Redispatch;Wirkleistungseinspeisung erhöhen;261;400;2215;Amprion;50Hertz & Amprion & TenneT DE & TransnetBW;Netzreservekraftwerk Weiher C;Konventionell
+04.03.2025;05:30;CET;04.03.2025;21:30;CET;Strombedingter Redispatch;Wirkleistungseinspeisung reduzieren;452,88;929;5547,75;TenneT DE;TenneT DE;OWP UW Büttel;Erneuerbar
+04.03.2025;05:30;CET;04.03.2025;20:00;CET;Strombedingter Redispatch;Wirkleistungseinspeisung erhöhen;244,41;410;1955,25;TransnetBW;TenneT DE;Vorarlberger Ilwerke;Sonstiges
+04.03.2025;05:30;CET;04.03.2025;09:00;CET;Strombedingter Redispatch;Wirkleistungseinspeisung erhöhen;112,86;140;395;TransnetBW;TenneT DE;Reservekraftwerk Altbach/Deizisau Block 1;Konventionell
+04.03.2025;06:00;CET;04.03.2025;20:00;CET;Strombedingter Redispatch;Wirkleistungseinspeisung reduzieren;17;22;69;50Hertz;50Hertz & Amprion & TenneT DE & TransnetBW;50H Halle-Trotha HKW;Konventionell
+04.03.2025;06:00;CET;05.03.2025;00:00;CET;Strombedingter Redispatch;Wirkleistungseinspeisung reduzieren;61;109;490;50Hertz;50Hertz & Amprion & TenneT DE & TransnetBW;50H Hamburg Tiefstack GuD;Konventionell
+04.03.2025;06:00;CET;04.03.2025;14:00;CET;Strombedingter Redispatch;Wirkleistungseinspeisung reduzieren;171;171;1368;TenneT DE;TenneT DE;Wilhelmshaven (ENGIE);Konventionell
+04.03.2025;06:45;CET;04.03.2025;11:30;CET;Strombedingter Redispatch;Wirkleistungseinspeisung erhöhen;160;192;762;Amprion;50Hertz & Amprion & TenneT DE & TransnetBW;KMW_KW3;Konventionell
+04.03.2025;07:00;CET;04.03.2025;11:00;CET;Strombedingter Redispatch;Wirkleistungseinspeisung reduzieren;172;328;690;50Hertz;50Hertz & Amprion & TenneT DE & TransnetBW;Lippendorf VE;Konventionell
+04.03.2025;07:00;CET;04.03.2025;11:00;CET;Strombedingter Redispatch;Wirkleistungseinspeisung reduzieren;205;225;821;50Hertz;50Hertz & Amprion & TenneT DE & TransnetBW;Boxberg (Standort);Konventionell
+04.03.2025;07:00;CET;04.03.2025;09:00;CET;Strombedingter Redispatch;Wirkleistungseinspeisung reduzieren;21;28;42;50Hertz;50Hertz & Amprion & TenneT DE & TransnetBW;Lippendorf VE;Konventionell
+04.03.2025;07:00;CET;04.03.2025;11:00;CET;Strombedingter Redispatch;Wirkleistungseinspeisung reduzieren;82;109;329;50Hertz;50Hertz & Amprion & TenneT DE & TransnetBW;50H OWP Wikinger;Erneuerbar
+04.03.2025;07:00;CET;04.03.2025;08:00;CET;Strombedingter Redispatch;Wirkleistungseinspeisung reduzieren;51;51;51;50Hertz;50Hertz & Amprion & TenneT DE & TransnetBW;50H UW Bertikow;Erneuerbar
+04.03.2025;07:00;CET;04.03.2025;08:00;CET;Strombedingter Redispatch;Wirkleistungseinspeisung erhöhen;335;350;335;TenneT DE;TenneT DE;Börse;Sonstiges
+04.03.2025;07:00;CET;05.03.2025;00:00;CET;Strombedingter Redispatch;Wirkleistungseinspeisung erhöhen;154,9;600;774,5;TransnetBW;50Hertz & Amprion & TenneT DE & TransnetBW;Vorarlberger Ilwerke;Sonstiges
+04.03.2025;07:15;CET;04.03.2025;10:00;CET;Strombedingter Redispatch;Wirkleistungseinspeisung erhöhen;54,57;90;95,5;TenneT DE;TenneT DE;SW München KW-Pool;Sonstiges
+04.03.2025;07:45;CET;05.03.2025;00:00;CET;Strombedingter Redispatch;Wirkleistungseinspeisung erhöhen;64,31;88;209;TenneT DE;50Hertz & Amprion & TenneT DE & TransnetBW;SW München KW-Pool;Sonstiges
+04.03.2025;08:00;CET;05.03.2025;00:00;CET;Strombedingter Redispatch;Wirkleistungseinspeisung reduzieren;34;50;170;50Hertz;50Hertz & Amprion & TenneT DE & TransnetBW;50H Berlin Mitte;Konventionell
+04.03.2025;08:00;CET;04.03.2025;12:30;CET;Strombedingter Redispatch;Wirkleistungseinspeisung reduzieren;96;220;430;50Hertz;50Hertz & Amprion & TenneT DE & TransnetBW;50H PV Witznitz;Erneuerbar
+04.03.2025;08:00;CET;04.03.2025;10:00;CET;Strombedingter Redispatch;Wirkleistungseinspeisung reduzieren;131;206;262;50Hertz;50Hertz & Amprion & TenneT DE & TransnetBW;Lippendorf EnBW;Konventionell
+04.03.2025;08:00;CET;04.03.2025;09:00;CET;Strombedingter Redispatch;Wirkleistungseinspeisung reduzieren;94;94;94;50Hertz;50Hertz & Amprion & TenneT DE & TransnetBW;Lippendorf EnBW;Konventionell
+04.03.2025;08:00;CET;04.03.2025;10:00;CET;Strombedingter Redispatch;Wirkleistungseinspeisung reduzieren;105;160;210;50Hertz;50Hertz & Amprion & TenneT DE & TransnetBW;Lippendorf VE;Konventionell
+04.03.2025;08:00;CET;04.03.2025;09:00;CET;Strombedingter Redispatch;Wirkleistungseinspeisung reduzieren;49;49;49;50Hertz;50Hertz & Amprion & TenneT DE & TransnetBW;Boxberg (Standort);Konventionell
+04.03.2025;08:00;CET;04.03.2025;11:00;CET;Strombedingter Redispatch;Wirkleistungseinspeisung reduzieren;132;172;396;50Hertz;50Hertz & Amprion & TenneT DE & TransnetBW;Jänschwalde (Standort);Konventionell
+04.03.2025;08:00;CET;04.03.2025;16:00;CET;Strombedingter Redispatch;Wirkleistungseinspeisung reduzieren;338;509;1352;50Hertz;50Hertz & Amprion & TenneT DE & TransnetBW;Schwarze Pumpe (Standort);Konventionell
+04.03.2025;08:00;CET;04.03.2025;10:00;CET;Strombedingter Redispatch;Wirkleistungseinspeisung reduzieren;50;50;100;50Hertz;50Hertz & Amprion & TenneT DE & TransnetBW;Schkopau;Konventionell
+04.03.2025;08:00;CET;04.03.2025;11:00;CET;Strombedingter Redispatch;Wirkleistungseinspeisung reduzieren;71;138;212;50Hertz;50Hertz & Amprion & TenneT DE & TransnetBW;Jänschwalde (Standort);Konventionell
+04.03.2025;08:00;CET;04.03.2025;11:00;CET;Strombedingter Redispatch;Wirkleistungseinspeisung reduzieren;188;326;563;50Hertz;50Hertz & Amprion & TenneT DE & TransnetBW;Schwarze Pumpe (Standort);Konventionell
+04.03.2025;08:00;CET;04.03.2025;11:00;CET;Strombedingter Redispatch;Wirkleistungseinspeisung reduzieren;187;286;560;50Hertz;50Hertz & Amprion & TenneT DE & TransnetBW;Boxberg (Standort);Konventionell
+04.03.2025;08:00;CET;04.03.2025;12:30;CET;Strombedingter Redispatch;Wirkleistungseinspeisung erhöhen;492;810;2215;Amprion;50Hertz & Amprion & TenneT DE & TransnetBW;Knapsack 1;Konventionell
+04.03.2025;08:00;CET;04.03.2025;22:15;CET;Strombedingter Redispatch;Wirkleistungseinspeisung erhöhen;231;570;1443,75;TenneT DE;50Hertz & Amprion & TenneT DE & TransnetBW;Irsching 5;Konventionell
+04.03.2025;08:00;CET;04.03.2025;11:30;CET;Strombedingter Redispatch;Wirkleistungseinspeisung erhöhen;108,57;140;380;TransnetBW;50Hertz & Amprion & TenneT DE & TransnetBW;Reservekraftwerk Altbach/Deizisau Block 1;Konventionell
+04.03.2025;08:30;CET;04.03.2025;10:15;CET;Strombedingter Redispatch;Wirkleistungseinspeisung erhöhen;140;250;245;Amprion;TenneT DE;Netzreservekraftwerk Bexbach A;Konventionell
+04.03.2025;08:45;CET;04.03.2025;14:00;CET;Strombedingter Redispatch;Wirkleistungseinspeisung erhöhen;191;210;1002;Amprion;50Hertz & Amprion & TenneT DE & TransnetBW;Emsland Block B;Konventionell
+04.03.2025;08:45;CET;05.03.2025;00:00;CET;Strombedingter Redispatch;Wirkleistungseinspeisung reduzieren;148,37;383;704,75;TenneT DE;50Hertz & Amprion & TenneT DE & TransnetBW;OWP UW Büttel;Erneuerbar
+04.03.2025;09:00;CET;04.03.2025;11:00;CET;Strombedingter Redispatch;Wirkleistungseinspeisung reduzieren;174;220;348;50Hertz;50Hertz & Amprion & TenneT DE & TransnetBW;50H OWP Arkona;Erneuerbar
+04.03.2025;09:00;CET;05.03.2025;00:00;CET;Strombedingter Redispatch;Wirkleistungseinspeisung erhöhen;329;402;1481;Amprion;50Hertz & Amprion & TenneT DE & TransnetBW;Emsland Block D;Konventionell
+04.03.2025;09:00;CET;04.03.2025;11:00;CET;Strombedingter Redispatch;Wirkleistungseinspeisung erhöhen;138;213;276;Amprion;50Hertz & Amprion & TenneT DE & TransnetBW;LAUSWARD_GUDF;Konventionell
+04.03.2025;09:00;CET;04.03.2025;21:00;CET;Probestart (NetzRes);Wirkleistungseinspeisung erhöhen;88,54;120;1062,5;TransnetBW;TransnetBW;Reservekraftwerk Walheim Block 2;Konventionell
+04.03.2025;09:00;CET;04.03.2025;11:00;CET;Strombedingter Redispatch;Wirkleistungseinspeisung erhöhen;115,75;200;231,5;TransnetBW;TenneT DE;Heizkraftwerk Heilbronn Block 7;Konventionell
+04.03.2025;09:00;CET;04.03.2025;21:00;CET;Probestart (NetzRes);Wirkleistungseinspeisung reduzieren;88,54;120;1062,5;TransnetBW;TransnetBW;Börse;Sonstiges
+04.03.2025;09:30;CET;04.03.2025;11:00;CET;Strombedingter Redispatch;Wirkleistungseinspeisung erhöhen;195;227;292;Amprion;50Hertz & Amprion & TenneT DE & TransnetBW;WALSUM_10;Konventionell
+04.03.2025;09:45;CET;04.03.2025;12:00;CET;Strombedingter Redispatch;Wirkleistungseinspeisung erhöhen;113;196;254;Amprion;50Hertz & Amprion & TenneT DE & TransnetBW;WALSUM_10;Konventionell
+04.03.2025;09:45;CET;04.03.2025;17:00;CET;Strombedingter Redispatch;Wirkleistungseinspeisung erhöhen;196;210;1422;Amprion;50Hertz & Amprion & TenneT DE & TransnetBW;Emsland Block C;Konventionell
+04.03.2025;10:00;CET;04.03.2025;17:00;CET;Strombedingter Redispatch;Wirkleistungseinspeisung erhöhen;62;85;124;Amprion;50Hertz & Amprion & TenneT DE & TransnetBW;NIEHL-31-GUD;Konventionell
+04.03.2025;10:00;CET;04.03.2025;11:00;CET;Strombedingter Redispatch;Wirkleistungseinspeisung erhöhen;120;124;120;Amprion;50Hertz & Amprion & TenneT DE & TransnetBW;WEISWEILER_G;Konventionell
+04.03.2025;10:00;CET;04.03.2025;11:45;CET;Strombedingter Redispatch;Wirkleistungseinspeisung erhöhen;193;292;338;Amprion;50Hertz & Amprion & TenneT DE & TransnetBW;LAUSWARD_GUDF;Konventionell
+04.03.2025;10:00;CET;04.03.2025;11:00;CET;Strombedingter Redispatch;Wirkleistungseinspeisung erhöhen;117,5;140;117,5;TenneT DE;50Hertz & Amprion & TenneT DE & TransnetBW;SW München KW-Pool;Sonstiges
+04.03.2025;10:00;CET;04.03.2025;15:00;CET;Strombedingter Redispatch;Wirkleistungseinspeisung reduzieren;100;100;500;TenneT DE;TenneT DE;EE Bayern;Erneuerbar
+04.03.2025;10:00;CET;04.03.2025;15:00;CET;Strombedingter Redispatch;Wirkleistungseinspeisung reduzieren;90;100;450;TenneT DE;TenneT DE;EE Bayern;Erneuerbar
+04.03.2025;10:00;CET;04.03.2025;15:00;CET;Strombedingter Redispatch;Wirkleistungseinspeisung reduzieren;200;200;1000;TenneT DE;TenneT DE;EE Bayern;Erneuerbar
+04.03.2025;10:00;CET;04.03.2025;12:00;CET;Strombedingter Redispatch;Wirkleistungseinspeisung erhöhen;47;49;94;TransnetBW;50Hertz & Amprion & TenneT DE & TransnetBW;Rheinhafen-Dampfkraftwerk Karlsruhe Block 8;Konventionell
+04.03.2025;10:15;CET;04.03.2025;14:00;CET;Strombedingter Redispatch;Wirkleistungseinspeisung erhöhen;151;171;566,25;TransnetBW;TenneT DE;Rheinhafen-Dampfkraftwerk Karlsruhe Block 8;Konventionell
+04.03.2025;10:30;CET;04.03.2025;23:00;CET;Strombedingter Redispatch;Wirkleistungseinspeisung reduzieren;111,94;500;503,75;TenneT DE;50Hertz & Amprion & TenneT DE & TransnetBW;OWP UW Dörpen-West;Erneuerbar
+04.03.2025;10:30;CET;04.03.2025;11:00;CET;Strombedingter Redispatch;Wirkleistungseinspeisung erhöhen;100;150;50;TransnetBW;50Hertz & Amprion & TenneT DE & TransnetBW;Vorarlberger Ilwerke;Sonstiges
+04.03.2025;11:00;CET;04.03.2025;11:30;CET;Strombedingter Redispatch;Wirkleistungseinspeisung reduzieren;60;60;30;50Hertz;50Hertz & Amprion & TenneT DE & TransnetBW;50H UW Bertikow;Erneuerbar
+04.03.2025;11:00;CET;04.03.2025;12:15;CET;Strombedingter Redispatch;Wirkleistungseinspeisung reduzieren;199;200;149;50Hertz;50Hertz & Amprion & TenneT DE & TransnetBW;50H OWP Arcadis Ost 1;Erneuerbar
+04.03.2025;12:00;CET;04.03.2025;14:00;CET;Strombedingter Redispatch;Wirkleistungseinspeisung reduzieren;140;160;280;50Hertz;TenneT DE;50H PV Witznitz;Erneuerbar
+04.03.2025;12:00;CET;04.03.2025;21:30;CET;Probestart (NetzRes);Wirkleistungseinspeisung erhöhen;336,58;520;3197,5;TenneT DE;TenneT DE;ReserveKW Staudinger 5;Konventionell
+04.03.2025;12:45;CET;04.03.2025;14:00;CET;Strombedingter Redispatch;Wirkleistungseinspeisung reduzieren;48;50;60;50Hertz;TenneT DE;50H OWP Arkona;Erneuerbar
+04.03.2025;13:00;CET;04.03.2025;14:00;CET;Strombedingter Redispatch;Wirkleistungseinspeisung reduzieren;6;6;6;50Hertz;50Hertz & Amprion & TenneT DE & TransnetBW;50H UW Iven;Erneuerbar
+04.03.2025;13:00;CET;05.03.2025;00:00;CET;Strombedingter Redispatch;Wirkleistungseinspeisung reduzieren;50,75;113;406;TenneT DE;50Hertz & Amprion & TenneT DE & TransnetBW;OWP UW Dörpen-West;Erneuerbar
+04.03.2025;13:30;CET;04.03.2025;19:30;CET;Strombedingter Redispatch;Wirkleistungseinspeisung erhöhen;200;250;1200;Amprion;50Hertz & Amprion & TenneT DE & TransnetBW;HAMMUENTROP_10;Konventionell
+04.03.2025;14:00;CET;05.03.2025;00:00;CET;Strombedingter Redispatch;Wirkleistungseinspeisung erhöhen;210;210;2100;Amprion;50Hertz & Amprion & TenneT DE & TransnetBW;Emsland Block B;Konventionell
+04.03.2025;14:00;CET;05.03.2025;00:00;CET;Strombedingter Redispatch;Wirkleistungseinspeisung erhöhen;179;210;1790;Amprion;50Hertz & Amprion & TenneT DE & TransnetBW;HERDECKE_H6;Konventionell
+04.03.2025;14:00;CET;05.03.2025;00:00;CET;Strombedingter Redispatch;Wirkleistungseinspeisung reduzieren;194,8;448;1948;TenneT DE;50Hertz & Amprion & TenneT DE & TransnetBW;OWP UW Dörpen-West;Erneuerbar
+04.03.2025;14:00;CET;04.03.2025;20:00;CET;Strombedingter Redispatch;Wirkleistungseinspeisung reduzieren;283,46;479;1700,75;TenneT DE;50Hertz & Amprion & TenneT DE & TransnetBW;Wilhelmshaven (ENGIE);Konventionell
+04.03.2025;17:00;CET;04.03.2025;18:00;CET;Strombedingter Redispatch;Wirkleistungseinspeisung reduzieren;50;50;50;50Hertz;50Hertz & Amprion & TenneT DE & TransnetBW;Rostock Kohlekraftwerk;Konventionell
+04.03.2025;17:00;CET;05.03.2025;00:00;CET;Strombedingter Redispatch;Wirkleistungseinspeisung erhöhen;210;210;1470;Amprion;50Hertz & Amprion & TenneT DE & TransnetBW;Emsland Block C;Konventionell
+04.03.2025;17:15;CET;05.03.2025;00:00;CET;Strombedingter Redispatch;Wirkleistungseinspeisung reduzieren;151;237;1018;50Hertz;50Hertz & Amprion & TenneT DE & TransnetBW;Rostock Kohlekraftwerk;Konventionell
+04.03.2025;17:30;CET;05.03.2025;00:00;CET;Strombedingter Redispatch;Wirkleistungseinspeisung erhöhen;324;420;2104;Amprion;50Hertz & Amprion & TenneT DE & TransnetBW;HAMMUENTROP_20;Konventionell
+04.03.2025;19:00;CET;05.03.2025;00:00;CET;Strombedingter Redispatch;Wirkleistungseinspeisung erhöhen;244;250;1221;Amprion;50Hertz & Amprion & TenneT DE & TransnetBW;HAMMUENTROP_10;Konventionell
+04.03.2025;20:00;CET;04.03.2025;22:00;CET;Strombedingter Redispatch;Wirkleistungseinspeisung erhöhen;95;98;190;Amprion;50Hertz & Amprion & TenneT DE & TransnetBW;Emsland Block C;Konventionell
+04.03.2025;21:45;CET;05.03.2025;00:00;CET;Strombedingter Redispatch;Wirkleistungseinspeisung erhöhen;222,67;530;501;TenneT DE;50Hertz & Amprion & TenneT DE & TransnetBW;Irsching 5;Konventionell
+04.03.2025;21:45;CET;05.03.2025;00:00;CET;Strombedingter Redispatch;Wirkleistungseinspeisung reduzieren;87,78;181;197,5;TenneT DE;50Hertz & Amprion & TenneT DE & TransnetBW;OWP UW Büttel;Erneuerbar
+04.03.2025;22:00;CET;05.03.2025;00:00;CET;Strombedingter Redispatch;Wirkleistungseinspeisung reduzieren;235;286;470;TenneT DE;50Hertz & Amprion & TenneT DE & TransnetBW;OWP UW Büttel;Erneuerbar
+04.03.2025;22:00;CET;04.03.2025;23:00;CET;Strombedingter Redispatch;Wirkleistungseinspeisung reduzieren;19;19;19;TenneT DE;50Hertz & Amprion & TenneT DE & TransnetBW;SW München KW-Pool;Sonstiges
+04.03.2025;23:00;CET;05.03.2025;00:00;CET;Strombedingter Redispatch;Wirkleistungseinspeisung reduzieren;150;200;150;TenneT DE;TenneT DE;SHN Cluster Heide West T411 T412;Erneuerbar
+04.03.2025;23:00;CET;05.03.2025;00:00;CET;Strombedingter Redispatch;Wirkleistungseinspeisung reduzieren;150;200;150;TenneT DE;TenneT DE;SHN Cluster Klixbüll;Erneuerbar
